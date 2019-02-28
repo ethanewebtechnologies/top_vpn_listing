@@ -1,2 +1,2 @@
-# top_vpn_listing
+# Top VPN Listing
 Top Vpn Listing Project Repo
